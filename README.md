@@ -1,3 +1,6 @@
+
+Understood! Here's your GitHub README formatted correctly with Markdown for GitHub:
+
 Power Query M Calendar for Power BI 📅
 Introduction
 Welcome to the Power Query M Calendar for Power BI! This is a generic, self-generating drop-in calendar designed to simplify your Power BI modeling tasks.
@@ -7,10 +10,18 @@ Self-generating: No need to manually input dates. This calendar auto-generates b
 Generic: Suitable for a wide range of applications across different industries and use-cases.
 Optimized for Power BI: Specifically designed to be used seamlessly within Power BI.
 How to Use 🛠️
-Download: Click on the green Code button and select Download ZIP.
-Import: Open your Power BI Desktop, go to Home > Edit Queries > Advanced Editor. Paste the downloaded code here.
-Configure: Make necessary adjustments based on your time range or any specific custom columns you'd like to add.
-Load: Click on Close & Apply and your calendar will be added to your Power BI model.
+Download
+Click on the green Code button and select Download ZIP.
+
+Import
+Open your Power BI Desktop, go to Home > Edit Queries > Advanced Editor. Paste the downloaded code here.
+
+Configure
+Make necessary adjustments based on your time range or any specific custom columns you'd like to add.
+
+Load
+Click on Close & Apply and your calendar will be added to your Power BI model.
+
 Customization 💡
 This calendar is highly customizable. You can adjust:
 
